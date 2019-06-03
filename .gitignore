@@ -7,3 +7,6 @@
 .bash_history
 .idea-build/
 .ivy2/
+target/
+.class
+.idea/

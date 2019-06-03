@@ -1,9 +1,0 @@
-[0m[[0m[0minfo[0m] [0m[0m[32mSliceTest:[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mList.slice[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- should work1[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mList.slice[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- should work in edge cases1[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mList.slice[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- should work2[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mList.slice[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- should work in edge cases 2[0m[0m
