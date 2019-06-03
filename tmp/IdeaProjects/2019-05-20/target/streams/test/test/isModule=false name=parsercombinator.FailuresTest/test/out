@@ -1,0 +1,4 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mFailuresTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mParse Either[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should fail on no match[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should fail demonstrating 3 levels of debug available[0m[0m

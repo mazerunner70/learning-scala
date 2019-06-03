@@ -1,0 +1,18 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mRepeatTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mrepeated element[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should show success1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should show success2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mseparator reps[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should show success1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should show fail1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mseparator 4 reps[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should show success1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should show success2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should show fail1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mseparator 2 exactly reps[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should show success1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mseparator ab4c[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should show fail1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should show success1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should show success2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should show fail2[0m[0m

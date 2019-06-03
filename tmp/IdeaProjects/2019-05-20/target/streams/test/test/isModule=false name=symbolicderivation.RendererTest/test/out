@@ -1,0 +1,13 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mRendererTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mRenderer[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should render positive numbers[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should adjust signs correctly[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should render example 1 correctly[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should render example 2 correctly[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should render example 3 correctly[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should cope with power 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should power match[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should cope with power 3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should render example 1 answer correctly[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should render example 2 answer correctly[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should render example 3 answer correctly[0m[0m

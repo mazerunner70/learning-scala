@@ -1,0 +1,76 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(parsercombinator.CharsWhileInTest, org.scalatest.tools.Framework$$anon$1@5a700da2, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(parsercombinator.FailuresTest, org.scalatest.tools.Framework$$anon$1@5a700da2, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(parsercombinator.StringInTest, org.scalatest.tools.Framework$$anon$1@5a700da2, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(parsercombinator.RepeatTest, org.scalatest.tools.Framework$$anon$1@5a700da2, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(collections.list.SliceTest, org.scalatest.tools.Framework$$anon$1@5a700da2, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(parsercombinator.SequenceTest, org.scalatest.tools.Framework$$anon$1@5a700da2, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(parsercombinator.PositiveLookaheadTest, org.scalatest.tools.Framework$$anon$1@5a700da2, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(parsercombinator.CharsWhileTest, org.scalatest.tools.Framework$$anon$1@5a700da2, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(symbolicderivation.RendererTest, org.scalatest.tools.Framework$$anon$1@5a700da2, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(parsercombinator.IndexTest, org.scalatest.tools.Framework$$anon$1@5a700da2, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(parsercombinator.cuts.CutsTest, org.scalatest.tools.Framework$$anon$1@5a700da2, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(parsercombinator.FlatMapTest, org.scalatest.tools.Framework$$anon$1@5a700da2, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(parsercombinator.EitherTest, org.scalatest.tools.Framework$$anon$1@5a700da2, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(parsercombinator.math.EvalTest, org.scalatest.tools.Framework$$anon$1@5a700da2, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(parsercombinator.CharInTest, org.scalatest.tools.Framework$$anon$1@5a700da2, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(S99.S1_10.S003Test, org.scalatest.tools.Framework$$anon$1@5a700da2, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(symbolicderivation.ParserTest, org.scalatest.tools.Framework$$anon$1@5a700da2, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(parsercombinator.FirstTest, org.scalatest.tools.Framework$$anon$1@5a700da2, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(S99.S1_10.S001Test, org.scalatest.tools.Framework$$anon$1@5a700da2, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(parsercombinator.PcCharPredTest, org.scalatest.tools.Framework$$anon$1@5a700da2, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(parsercombinator.FilterTest, org.scalatest.tools.Framework$$anon$1@5a700da2, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(parsercombinator.AnyCharTest, org.scalatest.tools.Framework$$anon$1@5a700da2, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(parsercombinator.EndStartTest, org.scalatest.tools.Framework$$anon$1@5a700da2, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(parsercombinator.PcLogTest, org.scalatest.tools.Framework$$anon$1@5a700da2, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(S99.S1_10.S002Test, org.scalatest.tools.Framework$$anon$1@5a700da2, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(parsercombinator.NegativeLookaheadTest, org.scalatest.tools.Framework$$anon$1@5a700da2, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(S99.S1_10.S004Test, org.scalatest.tools.Framework$$anon$1@5a700da2, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(parsercombinator.CaptureTest, org.scalatest.tools.Framework$$anon$1@5a700da2, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(collections.TraversableDTest, org.scalatest.tools.Framework$$anon$1@5a700da2, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(symbolicderivation.SymDerivationTest, org.scalatest.tools.Framework$$anon$1@5a700da2, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(parsercombinator.OpaqueTest, org.scalatest.tools.Framework$$anon$1@5a700da2, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(parsercombinator.OptionalTest, org.scalatest.tools.Framework$$anon$1@5a700da2, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(parsercombinator.cuts.NoCutsTest, org.scalatest.tools.Framework$$anon$1@5a700da2, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(parsercombinator.PCMapTest, org.scalatest.tools.Framework$$anon$1@5a700da2, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(parsercombinator.PassFailTest, org.scalatest.tools.Framework$$anon$1@5a700da2, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 225 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 106[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 35, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 106, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	symbolicderivation.RendererTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	parsercombinator.PassFailTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	S99.S1_10.S002Test[0m
+[0m[[0m[0mdebug[0m] [0m[0m	S99.S1_10.S004Test[0m
+[0m[[0m[0mdebug[0m] [0m[0m	parsercombinator.cuts.CutsTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	parsercombinator.SequenceTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	parsercombinator.OpaqueTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	parsercombinator.OptionalTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	parsercombinator.IndexTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	parsercombinator.CharsWhileInTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	parsercombinator.PositiveLookaheadTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	parsercombinator.CharInTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	parsercombinator.NegativeLookaheadTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	parsercombinator.CaptureTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	parsercombinator.RepeatTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	parsercombinator.cuts.NoCutsTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	collections.TraversableDTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	parsercombinator.PcCharPredTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	parsercombinator.StringInTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	S99.S1_10.S003Test[0m
+[0m[[0m[0mdebug[0m] [0m[0m	parsercombinator.PcLogTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	parsercombinator.PCMapTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	symbolicderivation.ParserTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	parsercombinator.FailuresTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	parsercombinator.FirstTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	parsercombinator.math.EvalTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	parsercombinator.AnyCharTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	parsercombinator.FlatMapTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	parsercombinator.EndStartTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	symbolicderivation.SymDerivationTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	parsercombinator.FilterTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	parsercombinator.EitherTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	S99.S1_10.S001Test[0m
+[0m[[0m[0mdebug[0m] [0m[0m	collections.list.SliceTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	parsercombinator.CharsWhileTest[0m
