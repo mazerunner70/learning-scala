@@ -2,6 +2,7 @@ package lang.config
 
 import org.scalatest.{FlatSpec, FunSuite}
 import lang.config.EnvConfig2._
+import pureconfig.generic.auto._
 
 class FetcherTest extends FlatSpec {
 

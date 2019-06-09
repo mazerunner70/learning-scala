@@ -5,20 +5,20 @@ import lang.config.EnvConfig._
 import org.scalatest._
 import pureconfig.loadConfig
 import lang.config.EnvConfig2._
-
+import pureconfig.generic.auto._
 
 class EnvConfigTest extends FlatSpec {
 
   "EnvConfig" should "pass a basic test" in {
     val (extractorConfigE, config) = getApplicationConfig[FetcherConfig]
-    assert(config.entrySet().size() == 56)
+    assert(config.entrySet().size() == 54)
     assert(config.getString("fetcher.connection.profile") == "slick.jdbc.H2Profile$")
   }
 
   it should "understand getConfig2" in {
     assert(sys.env.get("FETCHER_CONFIG") == None)
     val config = getConfig
-    assert(config.entrySet().size() == 56)
+    assert(config.entrySet().size() == 54)
     assert(config.getString("fetcher.connection.profile") == "slick.jdbc.H2Profile$")
   }
 
@@ -66,7 +66,7 @@ class EnvConfigTest extends FlatSpec {
 
   it should "work in real class" in {
     val (extractorConfigE, config) = getApplicationConfig2[FetcherConfig]
-    assert(config.entrySet().size() == 67)
+    assert(config.entrySet().size() == 65)
     assert(config.getString("fetcher.connection.profile") == "slick.jdbc.OracleProfile$")
     assert(extractorConfigE == Right(
       FetcherConfig(
