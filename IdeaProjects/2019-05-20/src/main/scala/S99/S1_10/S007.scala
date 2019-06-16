@@ -2,6 +2,10 @@ package S99.S1_10
 
 object S007 {
 
+  def flatten_default(list: List[Seq[String]]) :List[String] = {
+    list.flatten
+  }
+
   def flatten_b[A](list: List[A]): List[A] = {
     list.flatten { a =>
       a match {
